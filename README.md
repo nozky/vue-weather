@@ -17,3 +17,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Live Demo
+[https://nozky.github.io/vue-weather/](https://nozky.github.io/vue-weather/)
